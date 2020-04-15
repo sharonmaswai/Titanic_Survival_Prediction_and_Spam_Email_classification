@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![Titanic](/Pictures/titanic.jpg)
 Format: ![Alt Text](url)
 
 # titanic_spambase-KNN--Naive-Bayes
